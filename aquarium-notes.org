@@ -1,4 +1,4 @@
-* TODO Kelp Touch Forest (send to Frank)
+* Kelp Touch Forest (send to Frank)
 /Hard station/
 ** Main message
 Our touch pools give visitors a chance to interact with and connect to animals and plants from the Rocky Shore and Kelp Forest communities.
@@ -20,3 +20,30 @@ Our touch pools give visitors a chance to interact with and connect to animals a
 *** TP
 Same idea, but with one at the lower kid's area.
 ** Handling procedures
+* Aviary
+/Hard Station/
+** Main message
+Where land and water collide, wetlands, sand dunes and sandy beaches support many different species of wildlife in the mud, marsh and shore.
+** Proceedures for opening/closing
+- The aviculturists will usually be in the exibit feeding the birds and other animals and cleaning out the exibit.
+- /Floor may be wet, so be careful/.
+- The window screens will also be down, so  the birds will sleep.
+** Guide positioning
+- Usually two Guides
+  - One by the entry, moving between the ray side and the pond end of the bird side.
+  - One halfway along the side of the sand hills of the bird side
+- Relieve at least one Guide
+** Best practices
+- Keep an eye on the swinging doors to make sure birds do not escape
+- Don't worry if you are unable to identify the birds— use your resources
+  - Other Guide
+  - Booklet
+  - "I don't know"
+** Problems
+- Animals are /not/ touchable in Aviary— discourage guests from this
+- Use radio in prop box to call Center if any of these problems or general problems occur
+- The black bellied plover is known to prance on the ledge. That's OK
+- *Service animals are not allowed in Aviary.* Anyone this applies to should have been told by Center when they went through the security checkpoint at the start of their visit. Guides in NC and TP can interpert.
+** Interpertaion guides
+This exhibit represents a transect of a shoreline from the wetlands channels and marshes through sand dunes to sandy beaches. Wetlands include many different habitats, each with its own specialized set of living creatures. Outside of the Aviary is the Nature Center, which explores some of those habitats, like mudflats and tidal channels. The Aviary displays mud channels, marshes, sand dunes, and the ocean shore. True to the diversity of life in the wetlands, this area has a wide variety of creatures, rays and sharks to wetland and surfzone fishes, birds, and sand crabs.
+
